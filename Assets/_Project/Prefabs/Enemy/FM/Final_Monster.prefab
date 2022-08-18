@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8133708035722715573
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8133708035722715571}
+  - component: {fileID: 8794694082334626425}
+  m_Layer: 0
+  m_Name: Final_Monster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8133708035722715571
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8133708035722715573}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8794694082334626425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8133708035722715573}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce47c05d37e20964cb41fe672b3e7078, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attackPrefab_Skull: {fileID: 6533581718607724355, guid: 0964e88c455fc1441abe08c4789d811f, type: 3}
+  radian: 0.7
+  count: 4
+  attackPrefab_Reaper: {fileID: 1826526414242275701, guid: a057842e8cf4301438d9e8d3303e8497, type: 3}
+  pingPrefab_Reaper: {fileID: 6074026850583436906, guid: a0c3f64874de3c849875705ecf9bf7cf, type: 3}
+  attackPrefab_Medusa: {fileID: 8090281594266261584, guid: 903bfbaa4be64bd468c290c44815f2b3, type: 3}
+  ciclePrefab_Medusa: {fileID: 7806989503598503721, guid: 13b367fff262d1a41a8031c0fe5642e0, type: 3}
+  trigger: 0
+  spawnPoint: {fileID: 2565245772066814543, guid: 688a3759903066744bd996b1a45e3ec0, type: 3}
+  plantWall: {fileID: 6752870744039541862, guid: d496cedf395605743a5523c0d2baed30, type: 3}
