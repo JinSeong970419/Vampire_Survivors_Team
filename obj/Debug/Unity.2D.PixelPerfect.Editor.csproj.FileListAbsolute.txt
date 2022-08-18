@@ -1,0 +1,2 @@
+C:\project\Vampire_Survivors\Vampire_Survivors\Atents-B_TeamProject\VampireSurvivors\obj\Debug\Unity.2D.PixelPerfect.Editor.csproj.AssemblyReference.cache
+C:\project\Vampire_Survivors\Vampire_Survivors\Atents-B_TeamProject\VampireSurvivors\obj\Debug\Unity.2D.PixelPerfect.Editor.csproj.CoreCompileInputs.cache

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bound
+  - Wall
+  - Bullet
+  - Bird
+  - Aura
+  - Turret
+  - Exp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Item
+  - Water
+  - UI
+  - Enemy
+  - Weapon
+  - Player
+  - Wall
+  - Bound
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1892738685
+    locked: 0
+  - name: GameObject
+    uniqueID: 3292386297
+    locked: 0
+  - name: UI
+    uniqueID: 3744806593
+    locked: 0

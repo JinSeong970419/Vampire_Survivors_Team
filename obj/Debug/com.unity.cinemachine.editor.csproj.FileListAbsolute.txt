@@ -1,0 +1,2 @@
+C:\project\Vampire_Survivors\Vampire_Survivors\Atents-B_TeamProject\VampireSurvivors\obj\Debug\com.unity.cinemachine.editor.csproj.AssemblyReference.cache
+C:\project\Vampire_Survivors\Vampire_Survivors\Atents-B_TeamProject\VampireSurvivors\obj\Debug\com.unity.cinemachine.editor.csproj.CoreCompileInputs.cache
