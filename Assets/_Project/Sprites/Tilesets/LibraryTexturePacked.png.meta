@@ -453,7 +453,7 @@ TextureImporter:
       213: -6292428744634915831
     second: Capet_3
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -474,6 +474,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -512,6 +513,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -527,6 +529,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3700,6 +3726,157 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      LibraryTexturePacked_61: -182522162676690696
+      LibraryTexturePacked_113: -3657410074149885210
+      LibraryTexturePacked_24: 4656529879616526125
+      LibraryTexturePacked_10: 3987981986564951459
+      LibraryTexturePacked_18: 1873186178154149264
+      LibraryTexturePacked_21: -7780483147073102431
+      LibraryTexturePacked_70: -414368832424479860
+      Ground0: 8319972481419199902
+      LibraryTexturePacked_20: 2601807343945666862
+      LibraryTexturePacked_75: 7650928935204188236
+      LibraryTexturePacked_111: 88150079131096955
+      LibraryTexturePacked_16: -3968852209527639158
+      LibraryTexturePacked_66: -1614018583436323530
+      LibraryTexturePacked_82: 5453311033936394230
+      LibraryTexturePacked_99: 4471353059686974144
+      LibraryTexturePacked_77: 784460530064059496
+      LibraryTexturePacked_80: -5449573659524858529
+      LibraryTexturePacked_103: 315476363334344671
+      LibraryTexturePacked_1: 6391848383973027949
+      LibraryTexturePacked_90: 5653662023696185576
+      LibraryTexturePacked_46: -2837429831975074962
+      LibraryTexturePacked_124: 8499788662458178886
+      LibraryTexturePacked_93: 8892847522046505102
+      LibraryTexturePacked_78: -8116882264011636881
+      LibraryTexturePacked_38: -203470579565059558
+      LibraryTexturePacked_71: 9017356940639456927
+      LibraryTexturePacked_130: -5511487038876092905
+      LibraryTexturePacked_89: 4343919841073343665
+      Ground1: 4384251424545372110
+      LibraryTexturePacked_122: -442566166135595240
+      LibraryTexturePacked_57: 3838296102579523310
+      LibraryTexturePacked_137: 3827959288060312916
+      LibraryTexturePacked_123: 6822582053236759781
+      LibraryTexturePacked_63: -3538252455800327166
+      LibraryTexturePacked_11: 2006235290882509059
+      LibraryTexturePacked_84: -5510631518567228939
+      LibraryTexturePacked_37: -8609346314578972
+      LibraryTexturePacked_5: 4267249242602824611
+      LibraryTexturePacked_34: -7607075273254103927
+      LibraryTexturePacked_48: -2430469701987259059
+      LibraryTexturePacked_107: 7736956940776806640
+      LibraryTexturePacked_92: -922529483040647277
+      LibraryTexturePacked_47: -2612346232480714596
+      Capet_4: -5422624636237087897
+      LibraryTexturePacked_105: 5857887722484513187
+      LibraryTexturePacked_94: -7145142018717573022
+      LibraryTexturePacked_136: 7536295047983532687
+      Capet_2: 1704343314288067773
+      LibraryTexturePacked_31: 804991455504695019
+      LibraryTexturePacked_101: -4738072899244015228
+      LibraryTexturePacked_55: -5471810459267840481
+      LibraryTexturePacked_26: 2950401187673989961
+      LibraryTexturePacked_72: -132858199388956185
+      LibraryTexturePacked_29: 3585662407956088218
+      LibraryTexturePacked_102: 3312213545381191270
+      LibraryTexturePacked_144: 4460664411733722876
+      LibraryTexturePacked_145: -4553424621458523241
+      LibraryTexturePacked_108: 590542429803824426
+      LibraryTexturePacked_43: -3599469176761390149
+      LibraryTexturePacked_138: -1662995051544636935
+      LibraryTexturePacked_39: 1237645711687924008
+      LibraryTexturePacked_128: 4231438523906562758
+      LibraryTexturePacked_40: -1583935950805591419
+      LibraryTexturePacked_125: -3145428003999066207
+      LibraryTexturePacked_135: 1073422147532469991
+      LibraryTexturePacked_121: 2112058477127547847
+      LibraryTexturePacked_35: 5789145002730850070
+      LibraryTexturePacked_114: -3889948054312983719
+      LibraryTexturePacked_41: 4392637788180006631
+      Capet_5: -5652349148509035084
+      LibraryTexturePacked_58: 4461425918610681032
+      LibraryTexturePacked_109: -2503266106344726142
+      LibraryTexturePacked_87: 2610461682145788545
+      LibraryTexturePacked_33: -955584495290333454
+      LibraryTexturePacked_69: -7503835373016852125
+      LibraryTexturePacked_129: -3478189601447768567
+      LibraryTexturePacked_76: -197843210301913182
+      LibraryTexturePacked_64: 8753121074019928632
+      LibraryTexturePacked_112: 4728976303307197973
+      LibraryTexturePacked_6: 5992460805394767548
+      LibraryTexturePacked_68: 1468677113245441738
+      LibraryTexturePacked_51: -6805358970340835071
+      LibraryTexturePacked_146: 6302126659740865507
+      Capet_8: -281868224254688663
+      Capet_7: 6650492993409391128
+      LibraryTexturePacked_3: -5219121776606739015
+      LibraryTexturePacked_81: -1049832411828836280
+      LibraryTexturePacked_60: 6848594870416006173
+      LibraryTexturePacked_52: 4929686543499197193
+      LibraryTexturePacked_42: -5789709531753607631
+      LibraryTexturePacked_74: -2693893121919833127
+      LibraryTexturePacked_45: -348323663007122510
+      LibraryTexturePacked_91: -4310789978655796699
+      LibraryTexturePacked_59: -504342959194793750
+      LibraryTexturePacked_139: 4728397553614303880
+      LibraryTexturePacked_53: -2839043548074103173
+      LibraryTexturePacked_0: -1205518836081041594
+      LibraryTexturePacked_8: 2281903106723518475
+      LibraryTexturePacked_86: -1377860121962187495
+      LibraryTexturePacked_127: 7457031613360291604
+      LibraryTexturePacked_143: -8854414642676466604
+      LibraryTexturePacked_32: 1921054666617244774
+      LibraryTexturePacked_106: 6456413272144241195
+      LibraryTexturePacked_120: 8836431355410447203
+      LibraryTexturePacked_54: -8979758844173896641
+      LibraryTexturePacked_65: 1409533489975130761
+      LibraryTexturePacked_14: -6380657174884897970
+      LibraryTexturePacked_28: -1064254391884558457
+      LibraryTexturePacked_36: 4875400024024118530
+      LibraryTexturePacked_7: -8329878192328668347
+      LibraryTexturePacked_49: -3968489130866880728
+      LibraryTexturePacked_73: 6979187533624700068
+      LibraryTexturePacked_15: -821146143547266958
+      LibraryTexturePacked_83: -4101613586549914674
+      LibraryTexturePacked_62: -4133163286875857325
+      LibraryTexturePacked_12: 8127675900077916958
+      Capet_3: -6292428744634915831
+      LibraryTexturePacked_85: 4840933030923266708
+      LibraryTexturePacked_13: 7237915857130733056
+      LibraryTexturePacked_126: 5503510679536033748
+      LibraryTexturePacked_97: -6480573003184058027
+      LibraryTexturePacked_95: 6385396532201348157
+      LibraryTexturePacked_2: -6339721067846100571
+      LibraryTexturePacked_44: 1633430202611542072
+      LibraryTexturePacked_104: -4371192317772346137
+      LibraryTexturePacked_88: 4564189978765752194
+      LibraryTexturePacked_96: -5960461188063653164
+      LibraryTexturePacked_25: 6631273165065181714
+      LibraryTexturePacked_79: -5200634956799261711
+      LibraryTexturePacked_17: 5413105845109150631
+      LibraryTexturePacked_100: 8549706333062179151
+      LibraryTexturePacked_67: -2086082247806265209
+      LibraryTexturePacked_110: -3359878304639359337
+      LibraryTexturePacked_131: -5485900988909846333
+      LibraryTexturePacked_141: 2873106593690933367
+      Capet_9: -7302817233837750243
+      LibraryTexturePacked_22: 1925074149256348844
+      LibraryTexturePacked_9: -3741796707700609999
+      LibraryTexturePacked_30: 3696203409537788601
+      LibraryTexturePacked_19: 5026965478061569331
+      LibraryTexturePacked_50: -6275642452985482853
+      LibraryTexturePacked_23: -7489734120479888011
+      Capet_6: 4636299700208270507
+      LibraryTexturePacked_4: -3439070874956645554
+      LibraryTexturePacked_27: -3008159598724030326
+      Capet_1: 2849004981151614322
+      LibraryTexturePacked_140: 6027031305484806470
+      LibraryTexturePacked_56: 2133955943874259958
+      LibraryTexturePacked_142: 2148599139020301897
+      LibraryTexturePacked_98: 4330954665149414600
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
